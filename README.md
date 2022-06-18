@@ -4,5 +4,10 @@
 Projeto em Kotlin para treinamento de envio de mensagens. O mesmo app está sendo feito também em Java,
 apenas para treinamento mesmo, para poder comparar a sintax das duas linguagens.
 </p>
+<div align="middle">
+  <h4>Enviando / Recebendo mensagens</h4> 
+  <img src="https://user-images.githubusercontent.com/29150094/174452355-69fae4ff-36b9-40c8-8ac4-938702f2aab0.gif" width="360" height="650" />  
+</div>
+
 
 
